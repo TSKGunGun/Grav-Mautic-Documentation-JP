@@ -1,2 +1,3 @@
 #Page Foloder
 pages/*
+!pages/.gitkeep
