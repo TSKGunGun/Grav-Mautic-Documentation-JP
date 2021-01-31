@@ -1,3 +1,5 @@
-#Page Foloder
-pages/*
+accounts/
+!accounts/.gitkeep
+
+pages/
 !pages/.gitkeep

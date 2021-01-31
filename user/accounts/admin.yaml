@@ -1,6 +1,6 @@
 state: enabled
-email: stonebeach.dakar@gmail.com
-fullname: 'Suguru Ueda'
+email: admin@example.com
+fullname: admin
 title: Administrator
 access:
   admin:
@@ -8,4 +8,4 @@ access:
     super: true
   site:
     login: true
-hashed_password: $2y$10$4S7OG6QW3Pnk7KpRzIqesezYInDbyBiPN.QaPDWbTm5meVCWjlCkm
+hashed_password: $2y$10$oZhOtnNyM99DlGxwJGUu6.K22m5SaF0eR3WaE4EUbPZSoGEaYo29u

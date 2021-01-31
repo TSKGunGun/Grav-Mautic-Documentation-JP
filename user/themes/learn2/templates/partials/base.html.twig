@@ -64,7 +64,6 @@
 
             {% block topbar %}{% if  github_link_position == 'top' or config.plugins.breadcrumbs.enabled %}
             <div id="top-bar">
-                {% include 'partials/language-selector.html.twig' %}
                 {% if  github_link_position == 'top' %}
                 <div id="top-github-link">
                 {% include 'partials/github_link.html.twig' %}
@@ -76,6 +75,7 @@
                 {% endif %}
             </div>
             {% endif %}{% endblock %}
+
             {% block content %}{% endblock %}
 
             {% block footer %}
