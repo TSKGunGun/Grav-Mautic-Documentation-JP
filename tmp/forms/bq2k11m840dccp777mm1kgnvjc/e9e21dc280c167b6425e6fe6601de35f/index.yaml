@@ -1,0 +1,100 @@
+form: flex-pages
+unique_id: e9e21dc280c167b6425e6fe6601de35f
+url: 'http://localhost:8100/admin/pages/use%20cases'
+user:
+  username: admin
+  email: admin@example.com
+timestamps:
+  created: 1612147758
+  updated: 1612147758
+data:
+  header:
+    title: ユースケース
+    media_order: null
+    body_classes: null
+    order_by: null
+    order_manual: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    external_links:
+      process: null
+      title: null
+      no_follow: null
+      target: null
+      mode: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: null
+  folder: 'Use Cases'
+  route: null
+  name: docs
+  ordering: true
+  order: null
+  order-child: null
+  blueprint: foo
+  lang: ja
+  xss_check: null
+  value: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: 'use cases'
+  storage_key: '21.Use Cases'
+  timestamp: 1612145744
+  serialized:
+    __META:
+      key: 'use cases'
+      storage_key: '21.Use Cases'
+      template: docs
+      storage_timestamp: 1612145744
+      markdown:
+        en: { docs: 1612145744 }
+      children:
+        01.Community: false
+        02.Ecommerce: false
+        03.Education: false
+        04.Political: false
+        05.Sales: false
+      checksum: e74ed0c65c8d80f7e5fc3a0726659fc0
+      clone: true
+    storage_key: '21.Use Cases'
+    parent_key: ''
+    order: '21.'
+    folder: 'Use Cases'
+    template: docs
+    lang: ja
+    header: {  }
+    root: false
+    markdown: ''
+    slug: 'use cases'
+    name: docs.md

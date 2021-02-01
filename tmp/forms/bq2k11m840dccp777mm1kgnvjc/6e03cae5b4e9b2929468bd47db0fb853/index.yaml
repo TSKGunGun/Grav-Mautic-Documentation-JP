@@ -1,0 +1,94 @@
+form: flex-pages
+unique_id: 6e03cae5b4e9b2929468bd47db0fb853
+url: 'http://localhost:8100/admin/pages/what%27s%20new'
+user:
+  username: admin
+  email: admin@example.com
+timestamps:
+  created: 1612148021
+  updated: 1612148021
+data:
+  header:
+    title: 最新情報
+    media_order: null
+    body_classes: null
+    order_by: null
+    order_manual: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    external_links:
+      process: null
+      title: null
+      no_follow: null
+      target: null
+      mode: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: null
+  folder: 'What''s New'
+  route: null
+  name: docs
+  ordering: true
+  order: null
+  order-child: null
+  blueprint: foo
+  lang: ja
+  xss_check: null
+  value: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: 'what''s new'
+  storage_key: '23.What''s New'
+  timestamp: 1612145744
+  serialized:
+    __META:
+      key: 'what''s new'
+      storage_key: '23.What''s New'
+      template: docs
+      storage_timestamp: 1612145744
+      markdown:
+        en: { docs: 1612145744 }
+      checksum: 21344332840ba78c5b203edcfec4a425
+      clone: true
+    storage_key: '23.What''s New'
+    parent_key: ''
+    order: '23.'
+    folder: 'What''s New'
+    template: docs
+    lang: ja
+    header: {  }
+    root: false
+    markdown: ''
+    slug: 'what''s new'
+    name: docs.md
