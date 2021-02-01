@@ -19,7 +19,7 @@ http_x_forwarded:                                # Configuration options for the
 languages:
   supported: 
               - en
-              - ja                                # List of languages supported. eg: [en, fr, de]
+              - ja                               # List of languages supported. eg: [en, fr, de]
   default_lang: ja                               # Default is the first supported language. Must be one of the supported languages
   include_default_lang: true                     # Include the default lang prefix in all URLs
   include_default_lang_file_extension: true      # If true, include language code for the default language in file extension: default.en.md
